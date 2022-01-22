@@ -1,7 +1,7 @@
 # DH 140 Project 
 ## Research question 🔍
 ###### 
-I would like to explore the implications of racial disparities behind foundation shades. Even though I don't have a concrete question yet, the key words in my research question will be 'race,' 'bias,' and 'foundation shades.' 
+I would like to explore the implications of racial disparities behind foundation shades. Key words in my research question will be 'race,' 'bias,' and 'foundation shades.' 
 ## Importance❗️
 ###### 
 As someone with an interest in beauty/cosmetics and who uses foundations on a daily basis, I thought this project could be a meaningful opportunity to educate myself in the problems and biases embedded within one of the most commonly used make up product - foundations. I believe make up is a huge driver for trends and societal perception of beauty, and the lack of creativity in naming darker shades as well as the limited range in foundations shades for PoC reflect racial bias in the cosmetic and beauty industry. 
