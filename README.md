@@ -15,3 +15,4 @@ I plan to use variables such as lightness, brand, and label in order to analyze 
 ## A concluding paragraph of what insights you expect to gain from your research
 #####
 Despite beauty comapanies' efforts towards inclusion, we are able to notice through articles like "The Naked Truth" that the process creates an additional layer of bias through labeling of products and the order of presentations. Through this project, I would like to conduct an analysis of a variety of foundations due to their inherent representations of various skin tones and shades. I hope to gain insights into the effectiveness of the beauty industry's efforts to accurately cater towards a more diverse customer base.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samanthapark23/dh140project/HEAD)
