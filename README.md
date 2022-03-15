@@ -1,4 +1,4 @@
-# Racial Bias Behind Foundations [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samanthapark23/dh140project/HEAD) ![]
+# Racial Bias Behind Foundations [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samanthapark23/dh140project/HEAD) 
 
 https://samanthapark23.github.io/finalprojectblog/
 ## Research question 🔍
