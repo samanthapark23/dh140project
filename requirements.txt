@@ -2,4 +2,3 @@ pandas
 requests
 display
 matplotlib
-
